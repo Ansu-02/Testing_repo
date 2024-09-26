@@ -15,6 +15,7 @@ int facto(int num)
 int main()
 {
     // Thid is a new feature(Prime factors)
+    // Thid is a new feature(GCD of two numbers)
     int num;
     printf("Enter a number\n");
     scanf("%d", num);
