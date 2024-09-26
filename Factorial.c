@@ -14,7 +14,7 @@ int facto(int num)
 
 int main()
 {
-    // Thid is a new feature
+    // Thid is a new feature(Prime factors)
     int num;
     printf("Enter a number\n");
     scanf("%d", num);
