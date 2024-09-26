@@ -14,6 +14,7 @@ int facto(int num)
 
 int main()
 {
+    // Thid is a new feature
     int num;
     printf("Enter a number\n");
     scanf("%d", num);
